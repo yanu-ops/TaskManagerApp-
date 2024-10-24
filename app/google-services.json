@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801080499498",
+    "project_id": "fir-auth-6ee46",
+    "storage_bucket": "fir-auth-6ee46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801080499498:android:193c9e6b3ada27b2b59253",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3IKraYAZju0bSKi-RnAdn6cSzKixkq3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
